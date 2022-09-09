@@ -31,6 +31,19 @@ class Api::V1::TodoController < ApplicationController
         end
     end
 
+    # ─── Finding Todo Item By Tag ───────────────────────────────────────────────────
+    def showTodo
+        
+        todo = Todomodel.where(tag: params[:tag])
+
+        if todo 
+            render json: todo, status: :ok
+        else
+            render json: {msg: "Todo item not found...."}, status: :unprocessable_entity
+        end
+    end
+
+
     # ─── Update Todo ────────────────────────────────────────────────────────────────
     def updateTodo
 

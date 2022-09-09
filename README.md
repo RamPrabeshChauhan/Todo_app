@@ -1,14 +1,17 @@
-# CRUD operation guide
+# CRUD operation using Postman
 
 
 * Create Todo
-![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-18-57.png)
+![CHEESE!](Postman_Guide/1.png)
 
-* Show Todo
-![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-19-14.png)
+* Show all Todos
+![CHEESE!](Postman_Guide/2.png)
+
+* Show only selected tag Todos
+![CHEESE!](Postman_Guide/3.png)
 
 * Update Todo
-![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-29-43.png)
+![CHEESE!](Postman_Guide/4.png)
 
 * Delete Todo
-![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-30-06.png)
+![CHEESE!](Postman_Guide/5.png)
