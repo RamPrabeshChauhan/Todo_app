@@ -59,7 +59,7 @@ class Api::V1::TodoController < ApplicationController
     # Passing todo item id and params
     private 
         def todoParams
-            params.permit(:tag, :body);
+            params.permit(:tag, :title, :body, :status);
         end
 
         def todoId

@@ -1,24 +1,14 @@
-# README
+# CRUD operation guide
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Create Todo
+![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-18-57.png)
 
-* Ruby version
+* Show Todo
+![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-19-14.png)
 
-* System dependencies
+* Update Todo
+![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-19-27.png)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Delete Todo
+![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-19-37.png)
