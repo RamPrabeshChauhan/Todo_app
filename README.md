@@ -8,7 +8,7 @@
 ![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-19-14.png)
 
 * Update Todo
-![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-19-27.png)
+![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-29-43.png)
 
 * Delete Todo
-![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-19-37.png)
+![CHEESE!](Postman_Guide/Screenshot%20from%202022-09-09%2011-30-06.png)
