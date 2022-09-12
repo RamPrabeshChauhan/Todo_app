@@ -5,6 +5,8 @@ ruby '3.0.2'
 
 # MongoDB
 gem "mongoid"
+# Kaminari for pagination
+gem 'kaminari-mongoid'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.0.5', '>= 6.0.5.1'

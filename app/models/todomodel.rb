@@ -6,4 +6,8 @@ class Todomodel
   field :title, type: String
   field :body, type: String
   field :status, type: String
+  field :visible, type: Boolean, default: true
+
+  # it will show only one data
+  paginates_per 2
 end
